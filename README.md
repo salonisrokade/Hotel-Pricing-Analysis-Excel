@@ -48,7 +48,7 @@ A client is planning a group trip and wants:
 - Leverage early booking to secure better deals  
 
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data scraping without code (Excel)
 - Data wrangling & transformation
